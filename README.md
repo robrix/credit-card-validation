@@ -2,4 +2,4 @@
 
 Credit card number validation as functional–style Swift.
 
-This was a ridiculous experiment performed at the London Swift meetup.
+This was a ridiculous experiment performed at the Swift London meetup, November 3rd, 2014.
